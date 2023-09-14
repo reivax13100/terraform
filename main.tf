@@ -25,3 +25,5 @@ resource "docker_container" "nginx" {
     external = 8080
   }
 }
+
+
